@@ -41,6 +41,12 @@ Lifetime은 정기 구독과 다른 구매 방식입니다. pCloud Encryption �
 
 pCloud는 파일을 보관하는 클라우드입니다. 다른 클라우드에서 옮기려면 해당 서비스가 지원하는 내보내기·업로드 방법도 확인해야 합니다.
 
+## 공유 링크로 파일이 안 받아질 때
+
+저장 용량과 공유 링크 전송량은 다릅니다. 받는 사람은 오류를 소유자에게 전달하고, 소유자는 Shared → Links → Statistics에서 사용량을 확인하세요. 결제부터 할 필요는 없습니다.
+
+[받는 사람·보내는 사람의 확인 순서](https://appguideplus.com/ko/pcloud/shared-link-traffic/?utm_source=github)
+
 ## 단계별 가이드
 
 - [pCloud Drive와 Sync: PC 용량·오프라인 사용·삭제 주의점](pcloud-drive-and-sync.ko.md)
