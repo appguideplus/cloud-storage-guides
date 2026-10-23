@@ -1,14 +1,25 @@
+![AppGuide+ CLOUD STORAGE](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # Proton Drive 사진 백업: Android·iPhone 설정과 완료 확인
 
 휴대폰 사진은 Proton Drive의 Photos에서 백업을 켭니다. Android는 카메라 폴더 외에 어떤 폴더를 올릴지 고를 수 있고, iPhone은 사진 접근 권한과 앱 실행 상태가 중요합니다.
 
-[Proton Drive](proton-drive.ko.md) · [전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/proton-drive/photo-backup/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/proton-drive/photo-backup/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 시작 전에 용량부터 보기
 
 Proton Drive의 남은 저장 공간과 올릴 사진·영상의 양을 비교하세요. 용량이 차면 백업이 끝나기 전에 멈출 수 있습니다. 처음에는 충전 중인 기기를 Wi-Fi에 연결해 두면 편합니다.
 
 출처: [Proton Drive 사진 백업 설정](https://proton.me/support/enable-photo-backup)
+
+<details>
+<summary><strong>Android에서 백업 켜기</strong></summary>
 
 ## Android에서 백업 켜기
 
@@ -18,6 +29,11 @@ Proton Drive의 남은 저장 공간과 올릴 사진·영상의 양을 비교�
 4. Backup complete가 표시되면 최근 사진을 열어 봅니다.
 
 출처: [Proton Drive 사진 백업 설정](https://proton.me/support/enable-photo-backup)
+
+</details>
+
+<details>
+<summary><strong>스크린샷 등 다른 폴더도 올리기</strong></summary>
 
 ## 스크린샷 등 다른 폴더도 올리기
 
@@ -29,6 +45,11 @@ Android의 기본 대상은 Camera 폴더입니다. 카메라 사진은 올라�
 
 출처: [Proton Drive 사진 백업 설정](https://proton.me/support/enable-photo-backup)
 
+</details>
+
+<details>
+<summary><strong>iPhone에서 백업 켜기</strong></summary>
+
 ## iPhone에서 백업 켜기
 
 1. Proton Drive의 Photos 탭을 엽니다.
@@ -38,6 +59,11 @@ Android의 기본 대상은 Camera 폴더입니다. 카메라 사진은 올라�
 
 출처: [Proton Drive 사진 백업 설정](https://proton.me/support/enable-photo-backup)
 
+</details>
+
+<details>
+<summary><strong>오래 걸릴 때와 백업 후 점검</strong></summary>
+
 ## 오래 걸릴 때와 백업 후 점검
 
 사진이 많으면 첫 백업에 며칠이 걸릴 수 있습니다. iPhone에서는 앱을 열어 두는 편이 빠르며, 앱을 강제 종료하면 백업이 멈춥니다.
@@ -46,10 +72,20 @@ Android의 기본 대상은 Camera 폴더입니다. 카메라 사진은 올라�
 
 출처: [Proton Drive 사진 백업 설정](https://proton.me/support/enable-photo-backup)
 
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
+
 ## 함께 볼 안내
 
 - [Proton Drive 무료 용량과 유료 플랜: 파일·사진 보관 안내](proton-drive.ko.md)
 - [Proton Drive 파일 공유: 보기·편집 권한과 링크 관리](proton-drive-sharing.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -58,3 +94,11 @@ Android의 기본 대상은 Camera 폴더입니다. 카메라 사진은 올라�
 내용 확인일: 2026-09-14. GitHub판 편집일: 2026-09-14.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/proton-drive/photo-backup/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.

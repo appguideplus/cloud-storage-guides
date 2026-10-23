@@ -1,8 +1,16 @@
+![AppGuide+ CLOUD STORAGE](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # MultCloud로 클라우드 파일 옮기기: 원본을 지우기 전 확인
 
 한 번 복사할 작업인지 계속 동기화할 작업인지 먼저 정하세요. 폴더가 만들어진 것과 모든 파일의 전송이 끝난 것은 다릅니다.
 
-[MultCloud](multcloud.ko.md) · [전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/multcloud/transfer-checklist/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/multcloud/transfer-checklist/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## Transfer·Sync·Backup 구분
 
@@ -10,11 +18,19 @@ Cloud Transfer는 클라우드 간 전송, Cloud Sync는 변경 동기화, Cloud
 
 동기화는 일방향·양방향 등의 설정이 결과에 영향을 줍니다. 원본을 보존할 목적이라면 삭제·덮어쓰기 관련 옵션을 특히 확인하세요.
 
+<details>
+<summary><strong>연결과 경로 확인</strong></summary>
+
 ## 연결과 경로 확인
 
 원본·목적지 클라우드가 현재 지원되는지 확인하고 각 계정을 구분해서 연결합니다. 폴더 이름이 같아도 다른 계정일 수 있습니다.
 
 목적지 용량과 MultCloud의 전송량을 별도로 확인하세요. 클라우드에 공간이 남아 있어도 전송 서비스의 한도 때문에 작업이 중단될 수 있습니다.
+
+</details>
+
+<details>
+<summary><strong>작게 실행한 뒤 확대</strong></summary>
 
 ## 작게 실행한 뒤 확대
 
@@ -22,15 +38,30 @@ Cloud Transfer는 클라우드 간 전송, Cloud Sync는 변경 동기화, Cloud
 
 파일 이름이 같을 때의 처리와 다시 실행할 때의 동작은 해당 작업 설정을 확인합니다. 실패했다고 같은 대용량 작업을 여러 개 동시에 만들지 마세요.
 
+</details>
+
+<details>
+<summary><strong>원본 정리 판단</strong></summary>
+
 ## 원본 정리 판단
 
 완료 표시와 실패 목록을 모두 확인한 뒤 폴더 구조·파일 수·중요 파일의 내용을 대조합니다. 공유 권한이나 별도 메타데이터가 파일 내용과 함께 옮겨지는지도 필요에 따라 확인하세요.
 
 검증이 끝나기 전에는 원본을 삭제하지 마세요. 더 이상 필요 없는 서비스 연결은 계정의 연결 관리에서 검토하되 진행 중인 작업에 영향을 주지 않도록 합니다.
 
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
+
 ## 함께 볼 안내
 
 - [MultCloud 사용법: 클라우드 파일 이전과 무료 전송량](multcloud.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -41,3 +72,11 @@ Cloud Transfer는 클라우드 간 전송, Cloud Sync는 변경 동기화, Cloud
 내용 확인일: 2026-09-14. GitHub판 편집일: 2026-09-14.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/multcloud/transfer-checklist/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.

@@ -1,8 +1,16 @@
+![AppGuide+ CLOUD STORAGE](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # MultCloud 사용법: 클라우드 파일 이전과 무료 전송량
 
 기존 클라우드의 파일을 다른 저장 공간으로 옮길 때 사용하는 서비스입니다. 출발지와 도착지의 지원 여부, 옮길 용량부터 확인하세요.
 
-[전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/multcloud/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/multcloud/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 한 번 옮길까요, 계속 맞춰 둘까요?
 
@@ -10,6 +18,9 @@
 | --- | --- | --- |
 | 파일을 한 번 이전 | 전송 작업 | 출발지 폴더와 도착지 폴더를 정해 옮길 파일을 선택합니다. |
 | 계속 같은 상태로 | 동기화 방식 | 단방향·양방향 등 방식에 따라 덮어쓰기와 삭제 처리 조건이 달라집니다. |
+
+<details>
+<summary><strong>핵심 정보</strong></summary>
 
 ## 핵심 정보
 
@@ -19,11 +30,21 @@
 | 지원 예시 | Google Drive · OneDrive · pCloud |
 | 구매 기준 | 필요한 전송량과 작업 방식 |
 
+</details>
+
+<details>
+<summary><strong>전송량과 저장 공간은 다릅니다</strong></summary>
+
 ## 전송량과 저장 공간은 다릅니다
 
 MultCloud의 무료 월 5GB는 클라우드 사이에서 전송하는 데이터 양입니다. 도착지 클라우드의 저장 공간도 별도로 충분해야 합니다.
 
 공식 지원 목록에서 두 서비스가 모두 있는지 확인하세요. 전체 파일을 이전하기 전 작은 폴더로 결과를 확인하고, 동기화에서는 삭제·덮어쓰기 조건을 읽은 뒤 실행하세요.
+
+</details>
+
+<details>
+<summary><strong>이용 순서</strong></summary>
 
 ## 이용 순서
 
@@ -31,6 +52,11 @@ MultCloud의 무료 월 5GB는 클라우드 사이에서 전송하는 데이터 
 2. 옮길 용량과 도착지의 남은 공간을 비교합니다.
 3. 공식 연결 화면에서 필요한 계정 권한을 확인합니다.
 4. 작은 폴더로 전송 결과를 확인한 뒤 필요한 범위의 작업을 실행합니다.
+
+</details>
+
+<details>
+<summary><strong>자주 묻는 질문</strong></summary>
 
 ## 자주 묻는 질문
 
@@ -42,14 +68,29 @@ MultCloud의 무료 월 5GB는 클라우드 사이에서 전송하는 데이터 
 
 전송에 사용하는 월간 데이터 양입니다. 파일을 보관할 공간은 연결한 클라우드에서 제공합니다.
 
+</details>
+
+<details>
+<summary><strong>단계별 가이드</strong></summary>
+
 ## 단계별 가이드
 
 - [MultCloud로 클라우드 파일 옮기기: 원본을 지우기 전 확인](multcloud-transfer-checklist.ko.md)
+
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
 
 ## 함께 볼 안내
 
 - [pCloud 평생 이용권과 구독: 용량·구매 방식 선택](pcloud.ko.md)
 - [Proton Drive 무료 용량과 유료 플랜: 파일·사진 보관 안내](proton-drive.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -58,3 +99,11 @@ MultCloud의 무료 월 5GB는 클라우드 사이에서 전송하는 데이터 
 내용 확인일: 2026-09-12. GitHub판 편집일: 2026-09-14.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/multcloud/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.

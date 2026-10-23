@@ -1,8 +1,16 @@
+![AppGuide+ CLOUD STORAGE](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # pCloud 백업과 복구: 삭제·덮어쓰기 전에 알아둘 것
 
 백업이라는 이름만 보고 영구 보존된다고 생각하지 마세요. 어떤 변경이 클라우드에 반영되는지, 되돌릴 수 있는 기간은 얼마인지가 중요합니다.
 
-[pCloud](pcloud.ko.md) · [전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/pcloud/backup-and-recovery/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/pcloud/backup-and-recovery/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 백업할 위치를 정하기
 
@@ -10,11 +18,19 @@
 
 pCloud Backup과 Sync 모두 로컬·클라우드 변경을 연결하는 동작이 있습니다. 별도 외장 저장장치처럼 원본과 독립된 보관본도 필요에 따라 유지하세요.
 
+<details>
+<summary><strong>복구 기능을 구분하기</strong></summary>
+
 ## 복구 기능을 구분하기
 
 Trash는 삭제한 항목, File Revisions는 파일의 이전 버전, Rewind는 과거 시점으로 되돌리는 기능을 확인할 때 사용합니다. 현재 계정에 제공되는 범위를 먼저 보세요.
 
 보관 기간이 지나거나 영구 삭제한 항목이 항상 복구되는 것은 아닙니다. 추가 이력 상품의 포함 여부를 일반 저장 용량과 혼동하지 마세요.
+
+</details>
+
+<details>
+<summary><strong>문제를 발견한 직후</strong></summary>
 
 ## 문제를 발견한 직후
 
@@ -22,16 +38,31 @@ Trash는 삭제한 항목, File Revisions는 파일의 이전 버전, Rewind는 
 
 복구한 파일은 별도 위치에서 내용을 확인한 뒤 사용합니다. 파일명이 같더라도 올바른 버전인지 문서 내용이나 사진을 직접 열어 보세요.
 
+</details>
+
+<details>
+<summary><strong>새 기기로 옮길 때</strong></summary>
+
 ## 새 기기로 옮길 때
 
 기존 기기의 동기화 상태와 클라우드 내용을 먼저 확인하세요. 새 기기에서 비어 있는 폴더를 연결하기 전에 대상 경로와 동기화 방향을 검토합니다.
 
 이 가이드는 복구 성공을 보장하지 않습니다. 실제 복구 가능 여부는 현재 계정의 이력과 pCloud 공식 지원에서 확인하세요.
 
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
+
 ## 함께 볼 안내
 
 - [pCloud 평생 이용권과 구독: 용량·구매 방식 선택](pcloud.ko.md)
 - [pCloud Drive와 Sync: PC 용량·오프라인 사용·삭제 주의점](pcloud-drive-and-sync.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -41,3 +72,11 @@ Trash는 삭제한 항목, File Revisions는 파일의 이전 버전, Rewind는 
 내용 확인일: 2026-09-14. GitHub판 편집일: 2026-09-14.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/pcloud/backup-and-recovery/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.
